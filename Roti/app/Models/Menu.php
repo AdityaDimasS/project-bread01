@@ -21,6 +21,6 @@ class Menu extends Model
         'image',
     ];
 
-    // Properti untuk SoftDeletes
+    // Properti untuk SoftDeletes Test
     protected $dates = ['deleted_at'];
 }
